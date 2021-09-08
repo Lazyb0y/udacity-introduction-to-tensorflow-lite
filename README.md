@@ -4,3 +4,9 @@ This repository contains all the codes I've done while doing the Introduction to
 
 ## Course link
 [Introduction to TensorFlow Lite](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
+
+## Apps
+
+### Cats vs Dogs
+
+- TF Lite model we created in the Transfer Learning Colab.
